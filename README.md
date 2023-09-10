@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lemonandlymer
+- 👋 Hi, I’m @lainflux
 - 👀 I’m interested in PYTHON
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on NOTHING
