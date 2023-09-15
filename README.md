@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lainflux
 - 👀 I’m interested in PYTHON
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning PYTHON, CS50p
 - 💞️ I’m looking to collaborate on NOTHING
 - 📫 How to reach me MESSAGE ME 
 
