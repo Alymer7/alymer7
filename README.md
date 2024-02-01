@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @lainflux
 - 👀 I’m interested in PYTHON
-- 🌱 I’m currently learning in-school cs/python, and extracurricular cs50p psets.
-- 🌱 during October, to complete 40/40 psets (leaving the final project) and to get used to pygame.
-- 🌱 in the month of November a game-off (game jam) functioning as my final CS50p project.
-- 🌱 during 2024 i will do the full CS50x course
+- 🌱 school
+- 🌱 todo cs50r
+- 🌱 todo Imp. College London maths EDx
 - 💞️ I’m looking to collaborate on NOTHING
 - 📫 How to reach me MESSAGE ME 
 
