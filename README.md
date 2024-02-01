@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @98percentcarbon
-- 👀 I’m interested in PYTHON
+- 👀 I’m interested in PYTHON (its basiccally english!!"")
 - 🌱 school
 - 🌱 todo cs50r
 - 🌱 todo Imp. College London maths EDx
