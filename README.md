@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lainflux
+- 👋 Hi, I’m @98percentcarbon
 - 👀 I’m interested in PYTHON
 - 🌱 school
 - 🌱 todo cs50r
