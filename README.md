@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @98percentcarbon
-- 👀 I’m interested in MATHS+COMPSCI
-- 🌱 school
-- 🌱 todo cs50x
-- 🌱 todo ALFM001
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me MESSAGE ME
+I am 98 percent carbon
