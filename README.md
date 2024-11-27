@@ -1,1 +1,2 @@
-I am 98 percent carbon
+# Alymer
+Cofounder of computing society and maths person
