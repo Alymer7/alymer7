@@ -1,4 +1,4 @@
 # Alymer
-Cofounder of computing society and maths person
+Maths person
 
 https://alymer7.github.io/
